@@ -1,0 +1,19 @@
+@media (max-width: 400px) {
+    main {
+        padding: 25px;
+        width: 90%;
+        height: auto;
+    }
+    main .text-content h1{
+        font-size: 1.4em;
+    }
+    main .text-content p{
+    font-size: 1em;
+}
+    main picture {
+        width: 100%;   
+    }
+    main picture .card-hover {
+        padding: 42%;
+    }
+}
